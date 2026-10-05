@@ -1,4 +1,4 @@
-#written by nalan
+#jr dev: nsonverdi
 
 #Programming for the Puzzled -- Srini Devadas
 #You Will All Conform
